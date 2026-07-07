@@ -90,6 +90,7 @@ Users can filter the dashboard by:
 - KPI Cards
 
 ## 🔄 Dashboard Workflow
+
 ```mermaid
 flowchart TD
 
