@@ -7,6 +7,18 @@ The dashboard consolidates invoice data into a centralized reporting solution, a
 
 The project demonstrates data modeling, DAX calculations, Power Query transformations, and interactive dashboard design using Microsoft Power BI.
 
+## 💼 Business Problem
+
+Organizations often submit thousands of invoices through multiple customer portals. Without centralized reporting, it is difficult to answer questions such as:
+
+- How many invoices have been submitted?
+- Which customers receive the highest invoice volume?
+- What is the total invoice value submitted?
+- Which accounts require additional attention?
+- How is submission activity changing over time?
+
+Before this dashboard, answering these questions required manually reviewing Excel reports and filtering data across multiple files.
+
 ## 📂 Data Sources
 The dashboard uses CSV files containing invoice submission data.
 
@@ -29,18 +41,6 @@ Example datasets include:
     - Delivery Number
 
 NOTE: Sample data included in this repository has been anonymized
-
-## 💼 Business Problem
-
-Organizations often submit thousands of invoices through multiple customer portals. Without centralized reporting, it is difficult to answer questions such as:
-
-- How many invoices have been submitted?
-- Which customers receive the highest invoice volume?
-- What is the total invoice value submitted?
-- Which accounts require additional attention?
-- How is submission activity changing over time?
-
-Before this dashboard, answering these questions required manually reviewing Excel reports and filtering data across multiple files.
 
 ## ⚙️ Dashboard Features
 
