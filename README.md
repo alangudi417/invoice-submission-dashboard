@@ -19,6 +19,78 @@ Organizations often submit thousands of invoices through multiple customer porta
 
 Before this dashboard, answering these questions required manually reviewing Excel reports and filtering data across multiple files.
 
+## ⚙️ Skills Developed
+
+#### 🛠️ Tools
+
+`Power BI` `Power Query` `DAX` `Data Modeling` `CSV` `Git` `GitHub`
+
+#### Data Analysis & Transformation
+
+- Data Cleaning & Validation
+- Data Transformation with Power Query
+- Data Type Management
+- Data Integration from Multiple CSV Sources
+- Data Quality Checks
+- Data Preparation for Reporting
+- Data Aggregation & Transformation
+
+#### Power Query & ETL
+- Extract, Transform & Load (ETL)
+- Power Query Transformations
+- Combining Multiple Data Sources
+- Data Filtering & Reshaping
+- Column Transformation
+- Data Standardization
+- Reusable Query Development
+
+#### Data Modeling
+- Relational Data Modeling
+- Star Schema Design
+- Fact & Dimension Relationships
+- Primary & Foreign Key Relationships
+- Table Relationships
+- Data Model Optimization
+- One-to-Many Relationships
+
+#### DAX & Business Calculations
+- DAX Measures
+- Calculated Metrics
+- KPI Development
+- Aggregations & Time-Based Calculations
+- Dynamic Business Metrics
+- Invoice Volume Calculations
+- Invoice Value Analysis
+
+#### Data Visualization
+- Interactive Dashboard Development
+- KPI Cards
+- Bar & Column Charts
+- Time-Series Analysis
+- Customer-Level Analysis
+- Drill-Down Analysis
+- Slicers & Filters
+- Interactive Reporting
+- Executive Dashboard Design
+
+#### Business Analytics
+- Invoice Submission Analysis
+- Customer Performance Analysis
+- Operational Performance Monitoring
+- Trend Analysis
+- KPI Monitoring
+- Business Problem Translation
+- Data-Driven Decision Making
+- Manual Reporting Process Improvement
+
+#### Reporting & Automation
+- Centralized Reporting Solutions
+- Automated KPI Reporting
+- Reusable Data Transformation Workflows
+- Interactive Self-Service Analytics
+- Scalable Reporting Design
+- Executive-Ready Reporting
+
 ## 📂 Data Sources
 The dashboard uses CSV files containing invoice submission data.
 
